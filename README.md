@@ -1,7 +1,3 @@
-Here’s a polished **final README** version with your team credits, contact info, and professional formatting included. I’ve kept it engaging, clean, and NASA Space Apps–ready 🚀:
-
----
-
 # 🌞 Sunflare - Space Weather Adventures
 
 ![NASA Space Apps](https://img.shields.io/badge/NASA-Space%20Apps%202025-blue)
@@ -22,6 +18,12 @@ We’re passionate students dedicated to making space weather **fun, accessible,
 - 🧩 **Hands-on learning adventures**
 
 Our mission: to **spark curiosity about solar flares, auroras, and cosmic phenomena**, while inspiring the next generation of scientists and space enthusiasts.
+
+---
+
+## 🖼️ Project Poster
+
+![Sunflare Poster](https://i.ibb.co.com/WNWFQvh1/pos.jpg)
 
 ---
 
@@ -130,7 +132,7 @@ npm run dev
 
 ## 📱 Live Demo
 
-🌐 [https://sun-flare.vercel.app](https://sun-flare.vercel.app)
+🌐 [Sun-Flare](https://sun-flare.vercel.app)
 
 ---
 
