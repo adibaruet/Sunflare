@@ -17,14 +17,24 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Sun Flare",
+  title: "Sunflare | NASA Space Apps 2025",
   description:
-    "Sailing with the Sun – A whimsical adventure where characters explore with the sun.",
+    "Sunflare: Sailing with the Sun – A whimsical adventure exploring solar flares and space weather. Built for NASA Space Apps 2025 by Team iT3rat0r. AI tools used responsibly: OpenAI, DeepSeek, Gemini, and Steve AI for story, PDF, and animations.",
   icons: {
     icon: "/favicon.ico",
     shortcut: "/favicon-16x16.png",
     apple: "/apple-touch-icon.png",
   },
+  keywords: [
+    "NASA Space Apps",
+    "Sunflare",
+    "Solar Storm",
+    "Space Weather",
+    "Educational Story",
+    "AI Project",
+    "Team iT3rat0r",
+  ],
+  authors: [{ name: "Team iT3rat0r" }],
 };
 
 export default function RootLayout({
